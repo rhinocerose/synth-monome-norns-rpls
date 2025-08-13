@@ -1,9 +1,12 @@
 [submodule "lib/crops"]
 	path = lib/crops
 	url = https://github.com/andr-ew/crops
+	branch = main
 [submodule "lib/patcher"]
 	path = lib/patcher
 	url = https://github.com/andr-ew/patcher
+	branch = main
 [submodule "lib/produce"]
 	path = lib/produce
 	url = https://github.com/andr-ew/produce
+	branch = main
